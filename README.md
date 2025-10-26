@@ -3,16 +3,9 @@
 <h3 align="center">I'm front end developer with more than one years experience.I enjoy building sites & apps.My focus is React(Next js).</h3>
 <img align="right" alt="coding" width="400" style="border-radus:10px" src="https://res.cloudinary.com/durpzunxl/image/upload/v1700332898/ebovrsoqggvqacqzexxo.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemdadi71&label=Profile%20views&color=0e75b6&style=flat" alt="hemdadi71" /> </p>
-
-- 🔭 I’m currently working on **Youtube Project**
-
-- 👨‍💻 All of my projects are available at my portfolio page: [https://myportfolio.iran.liara.run/](https://portfolio-hemdadi71-gmailcom.vercel.app/)
-
 - 📫 My Email Address: **hemdadi71@gmail.com**
-
-- My resume download link [https://uupload.ir/view/resume-hosein_emdadi_80bz.pdf/](https://uupload.ir/view/resume-hosein_emdadi_80bz.pdf/)
-
 <h3 align="left">Connect with me:</h3>
+**hemdadi71@gmail.com**
 <p align="left">
 
 <h3 align="left">Languages and Tools:</h3>
